@@ -1,0 +1,19 @@
+{
+  "name": "phrased-words",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phrased/phrased-words.git"
+  },
+  "author": "Jakob Holderbaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phrased/phrased-words/issues"
+  },
+  "homepage": "https://github.com/phrased/phrased-words#readme"
+}
